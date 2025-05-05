@@ -1,6 +1,5 @@
-## Hi there 👋
-
-# Meu Primeiro Portfólio Profissional ✨💼
+Olá!!!
+## Meu Primeiro Portfólio Profissional ✨💼
 
 ## Sobre o Projeto 📌
 Este é o meu **primeiro portfólio profissional**, criado para apresentar quem sou, minhas habilidades, meus projetos e minha jornada como estudante de **Tecnologia em Segurança da Informação** no Centro Universitário Senac.  
