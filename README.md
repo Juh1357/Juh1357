@@ -25,16 +25,7 @@ Acesse o site aqui:
 
 (Esse link será atualizado quando o nome do repositório mudar para algo como `portfolio-julia`)
 
-## Contato 📱
-Desenvolvido por **Júlia Duarte Silva**  
-duartejulia249@gmail.com  
-(11) 94005-3457
-<div>
-  <a href="https://github.com/Juh1357">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juh1357&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juh1357&layout=compact&langs_count=8&theme=gruvbox"/>
-  </a>
-</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Juh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
