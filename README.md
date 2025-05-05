@@ -21,7 +21,7 @@ Aqui você encontrará um pouco sobre minha trajetória, meus objetivos na área
 
 ## Visualizar o Portfólio 🌐
 Acesse o site aqui:  
-[https://Juh1357.github.io/desejo-inclusao-digital](https://Juh1357.github.io/desejo-inclusao-digital)
+[https://Juh1357.github.io/Juh1357](https://Juh1357.github.io/desejo-inclusao-digital)
 
 (Esse link será atualizado quando o nome do repositório mudar para algo como `portfolio-julia`)
 
