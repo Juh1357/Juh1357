@@ -45,7 +45,7 @@ duartejulia249@gmail.com
 </div>
 
 <div>
-  <a href="https://www.instagram.com/duartejulia249" target="_blank">
+  <a href="https://www.instagram.com/juliaduarte.silva?igsh=MXI1YWE5Nm8ydG9qdA%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://wa.me/5511940053457" target="_blank">
